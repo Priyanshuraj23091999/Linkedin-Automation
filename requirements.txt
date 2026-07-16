@@ -1,0 +1,4 @@
+crewai==0.102.0
+litellm
+requests
+nest_asyncio
